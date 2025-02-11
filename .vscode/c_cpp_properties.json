@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "compiler path",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "sfa",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "\"includePath\": [     \"C:/msys64/mingw64/include/**\",     \"C:/msys64/ucrt64/include/**\",     \"${workspaceFolder}/**\" ]",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "\"includePath\": [     \"C:/msys64/mingw64/include/**\",     \"C:/msys64/ucrt64/include/**\",     \"${workspaceFolder}/**\" ]"
+        }
+    ],
+    "version": 4
+}
